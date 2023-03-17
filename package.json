@@ -1,4 +1,22 @@
 {
+  "name": "chronoscope",
+  "version": "0.0.1",
+  "author": "Ivan Tsiupa <vattgert@gmail.com>",
+  "description": "Events scheduling API",
+  "keywords": [
+    "schedule",
+    "scheduling",
+    "events",
+    "booking"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vattgert/chronoscope"
+  },
+  "bugs": {
+    "url": "https://github.com/vattgert/chronoscope/issues",
+    "email": "vattgert@gmail.com"
+  },
   "dependencies": {
     "fastify": "^4.14.1",
     "pino": "^8.11.0"
